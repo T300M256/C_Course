@@ -1,0 +1,50 @@
+Todd Moughamer
+January 26, 2001
+C/C++ Programming I, 026976, Mitchell
+
+2-1.
+
+signed char	127
+int		3,2767
+long		2,147,483,647
+unsigned char	255
+unsigned int	65,535
+unsigned long	4,294,967,295
+
+2-2.
+
+Should be a %i conversion.
+
+2-3.
+
+2 and 5. Because the modulus operator is determined by and expression
+which includes division by a negative number.  Division by a negative number
+can yield two values dependent on implementaion.
+
+2-4.
+
+		C			C++
+'A'		char			char
++'A'		signed char		signed char
+'A' + 'B'	signed char		signed char
+25 * 25		short			short
+32767 * 32767	long			long
+0L + 1		long			long
+'A' + 2e6f/34.2	float			long
+
+2-5.
+
+A.	60000
+B.	60000
+C.	120000
+D.	120000
+E.	120000
+
+2-7.
+
+A compiler bug?			Case 3
+OK; compiler's discretion?	Case 1
+Pre-ANSI C?			Case 2
+
+
+

@@ -1,0 +1,18 @@
+Todd Moughamer
+February 23, 2001
+C/C++ Programming I, 026976, Mitchell
+6-4
+
+a is an int
+
+f is a pointer to a long double
+
+x is an array of shorts
+
+d is an array of arrays of 6 pointers to floats
+
+j is a pointer to a pointer to a pointer to a char
+
+q is a pointer to a function returning a pointer to a double
+
+y is a pointer to an array of 5 arrays of 7 pointers to pointers to ints

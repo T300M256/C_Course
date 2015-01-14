@@ -1,0 +1,24 @@
+Input an integer value:
+3
+3
+[todd@localhost section3]$ !!
+three-sixB
+Input an integer value:
+-123
+321-
+[todd@localhost section3]$ !! 
+three-sixB
+Input an integer value:
+0
+0
+[todd@localhost section3]$ !!
+three-sixB
+Input an integer value:
+1010
+0101
+[todd@localhost section3]$ !!
+three-sixB
+Input an integer value:
+-1010
+0101-
+

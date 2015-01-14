@@ -1,0 +1,5 @@
+In C/C++, the case of letters is significant.
+main is where program execution begins.
+A semicolon terminates each statement.
+10% of "nothing" is 100% of "nothing"
+Use a \n to cause a newline; use a \t to cause a tab; use a \a to cuase a beeb!

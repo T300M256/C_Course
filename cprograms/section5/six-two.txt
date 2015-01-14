@@ -1,0 +1,13 @@
+Todd Moughamer
+February 23, 2001
+C/C++ Programming I, 026976, Mitchell
+6-2
+
+sizeof(ch)
+sizeof(ch)/sizeof(ch[0])
+
+sizeof(in)
+sizeof(in)/sizeof(in[0])
+
+sizeof(ft)
+sizeof(ft)/sizeof(ft[0])
